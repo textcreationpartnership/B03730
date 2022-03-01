@@ -1,0 +1,470 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Luke Huttons lamentation, which he wrote the day before his death, being condemned to be hang'd at York, for his robberies and trespasses committed thereabouts. To the tune of, Wandring and wavering.</title>
+            <author>Hutton, Luke, d. 1596.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681-1684?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03730</idno>
+            <idno type="STC">Wing H3841</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[14]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[318]</idno>
+            <idno type="EEBO-CITATION">99887221</idno>
+            <idno type="PROQUEST">ocm99887221</idno>
+            <idno type="VID">183462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183462)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[14]; A5:2[253])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Luke Huttons lamentation, which he wrote the day before his death, being condemned to be hang'd at York, for his robberies and trespasses committed thereabouts. To the tune of, Wandring and wavering.</title>
+                  <author>Hutton, Luke, d. 1596.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wright, J. Clarke, W. Thackeray, and T. Passenger,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[between 1681-1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: L. Hutton.</note>
+                  <note>Verse: "I am a poor prisoner condemned to die ..."</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Item at A5:2[253] imperfect: trimmed, affecting imprint.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hutton, Luke, d. 1596 --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="318" facs="tcp:183462:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>Luke Huttons Lamentation, which he wrote the day before his Death, being condemned to be hang'd at <hi>York,</hi> for his <hi>Robberies</hi> and <hi>Treſpaſſes</hi> committed thereabouts.</head>
+            <opener>To the Tune of, <hi>wandring and wavering.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>I Am a poor Priſoner condemned to die</l>
+               <l>ah wo is me, wo is me, for my great folly</l>
+               <l>Faſt fettered in Irons in place where I lye</l>
+               <l>be warned young wantons, hemp paſſeth green holly.</l>
+               <l>My Parents were of good degres</l>
+               <l>By whom I would not ruled be</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus receive me, with mercy relieve me,</hi>
+                  </l>
+                  <l>
+                     <hi>Receive O ſweet Saviour, my Spirit unto thee.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>My name is <hi>Hutton,</hi> yea <hi>Luke</hi> of bad life</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>Which on the High-way did rob Man and Wife<g ref="char:punc">▪</g>
+               </l>
+               <l>be warned</l>
+               <l>Inticed by many a graceleſs mate</l>
+               <l>Whoſe Counſel I repent too late.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Not twenty years Old (alas) was I</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>when I began this Fellony</l>
+               <l>be warned</l>
+               <l>With me went ſtill twelve Yeomen tall<g ref="char:punc">▪</g>
+               </l>
+               <l>Which I did my twelve Apoſtles call</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There was no Squire nor Baron bold<g ref="char:punc">▪</g>
+               </l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>That rode by the way with ſilver and gold</l>
+               <l>be warned,</l>
+               <l>But I and my Apoſtles gay</l>
+               <l>Would lighten their load ere they went away<g ref="char:punc">▪</g>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>This news procured my Kinsfolks grief</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>That hearing I was a famous Thief<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>be warned<g ref="char:punc">▪</g>
+               </l>
+               <l>They wept, they wailed, they wrung their hands</l>
+               <l>That thus I ſhould hazzard life and lands</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>They made me a Iaylor a little before</l>
+               <l>oh wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>To keep in Priſon Offendors ſore</l>
+               <l>be warned</l>
+               <l>But ſuch a Iaylor was never known</l>
+               <l>I went and let them out every one.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Iwis this ſorrow ſore grieved me</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>Such proper men ſhould hanged be</l>
+               <l>be warned</l>
+               <l>My Office then I did defie</l>
+               <l>And ran away for company.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Three years I lived upon the Spoil</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>Giving many an Earl the foyl</l>
+               <l>be warned</l>
+               <l>Yet did I never kill man nor wife</l>
+               <l>Though lewdly long I led my life.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But all too bad my deeds have been</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>Offending my Country, and my good Queen<g ref="char:punc">▪</g>
+               </l>
+               <l>be warned</l>
+               <l>All men in <hi>York-ſhire</hi> talk of me</l>
+               <l>A ſtronger Thief there could not be</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, with mercy relieve me,</hi>
+                  </l>
+                  <l>
+                     <hi>Receive O Sweet Saviour, my Spirit unto thee.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <pb n="319" facs="tcp:183462:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>UPon Saint <hi>Lukes</hi> day was I born</l>
+               <l>ah wo is me, ah wo is me, for my, <hi>&amp;c.</hi>
+               </l>
+               <l>Who want of Grace hath made me ſcorn</l>
+               <l>be warned young wantons, hemp, <hi>&amp;c.</hi>
+               </l>
+               <l>In honour of my Birth-day then</l>
+               <l>I rob'd in bravery nineteen men</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, with mercy relieve me,</hi>
+                  </l>
+                  <l>
+                     <hi>Receive O ſweet Saviour, my Spirit unto thee.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Country were to hear this wrong</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>With Hues and Cryes, perſued me long</l>
+               <l>be warned</l>
+               <l>Though long I ſcap'd. yet loe at the laſt</l>
+               <l>At <hi>London</hi> I was in <hi>Newgate</hi> caſt.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Where I did lye with grieved mind</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>Although my Keeper was gentle and kind</l>
+               <l>be warned</l>
+               <l>Yet was he not ſo kind as I</l>
+               <l>To let me go at liberty.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>At laſt the Sheriff of <hi>York-ſhire</hi> came</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>And in a Warrant he had my name</l>
+               <l>be warned</l>
+               <l>Quoth he at <hi>York</hi> thou muſt be try'd<g ref="char:punc">▪</g>
+               </l>
+               <l>With me therefore hence muſt thou ride</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Like pangs of Death his words did ſound.</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>My hands and arms full faſt he bound<g ref="char:punc">▪</g>
+               </l>
+               <l>be warned</l>
+               <l>Good Sir, quoth I, I had rather ſtay</l>
+               <l>I have no heart to ride that way,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When no intreaty would prevail<g ref="char:punc">▪</g>
+               </l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>I called for Wine, Beer, and Ale</l>
+               <l>be warned</l>
+               <l>And when my heart was in woful caſe</l>
+               <l>I drank to my friends with a ſmiling face</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>With clubs and ſtaves I was guarded then</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>I never before had ſuch waiting men</l>
+               <l>be warned</l>
+               <l>If they had ridden before me amain</l>
+               <l>Be-ſhrew me if I had call'd them again</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And when unto <hi>York</hi> that I was come</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>Each one on me did caſt his doom</l>
+               <l>be warned</l>
+               <l>And whilſt you live, this ſentence note</l>
+               <l>Evil men can never have good report.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Before the Iudges then I was brought</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>But ſure I had a careful thought</l>
+               <l>be warned</l>
+               <l>Nineſcore Indictments and ſeventeen</l>
+               <l>Againſt me there were red and ſeen.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And each of thoſe were fellony found</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>Which did my heart with ſorrow wound</l>
+               <l>be warned</l>
+               <l>What ſhould I herein longer ſtay</l>
+               <l>For this I was condemned that day<g ref="char:punc">▪</g>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>My Death each hour I did attand</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>In prayers and tears my time I did ſpend</l>
+               <l>be warned</l>
+               <l>And all my loving friends that Day</l>
+               <l>I did intreat for me to pray.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I have deſerved Death long ſince</l>
+               <l>ah wo is me, <hi>&amp;c.</hi>
+               </l>
+               <l>A viler ſinner lived not than I</l>
+               <l>be warned</l>
+               <l>On Friends I hoped life to ſave</l>
+               <l>But I am fitted for the grave.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Adieu my loving friends each one</l>
+               <l>ah woe is me, <hi>&amp;c.</hi>
+               </l>
+               <l>Think on me Lords when I am gone</l>
+               <l>be warned</l>
+               <l>When on the Ladder you do me view</l>
+               <l>Think I am neerer Heaven then you.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord Jeſus forgive me, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <closer>
+               <signed>L. Hutton.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
